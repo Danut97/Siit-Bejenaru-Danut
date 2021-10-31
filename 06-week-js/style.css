@@ -1,0 +1,28 @@
+
+#gameContainer{
+    display: inline;
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    outline: 2px solid black;
+    position: absolute;
+    margin-left: 40px;
+    
+
+}
+
+
+#player{
+    width:40px;
+    height: 40px;
+    background-color: blue;
+    outline: 1px solid black;
+    margin-left: 0px;
+    position: fixed;
+    margin-top: 0;
+    margin-block-end: 10cm;
+} 
+
+
+
+
