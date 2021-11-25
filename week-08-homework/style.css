@@ -1,0 +1,64 @@
+body{
+    
+      display:flex;
+  }
+
+  #container{
+    position:relative;
+    left: 350px;
+    top: 100px;
+    padding: 10px rgb(92, 90, 90);
+    border: solid 2px white;
+    width: 600px;
+    height: 400px;
+  }
+
+
+
+  #btn1{
+    width:30px;
+    height:30px;
+    float:left;
+    position: absolute;
+    top: 50%;
+    border:none;
+    outline:none;
+    margin-left: 0px;
+    cursor:pointer;
+    color:black;
+    left: 5%;
+    border: 0.5px solid black;
+    border-radius: 10%;
+
+}
+
+
+  #btn2{
+    width:30px;
+    height:30px;
+    float:left;
+    margin-left:567px;
+    border:none;
+    outline:none;
+    position: absolute;
+    top: 50%;
+    cursor:pointer;
+    color:black;
+    left: -5%;
+    border: 0.5px solid black;
+    border-radius: 10%;
+  }
+
+  #Random{
+      position: relative;
+      left:150px;
+  }
+
+  #image{
+      width: 450px;
+      height: 300px;
+      position: absolute;
+      left: 12%;
+  }
+
+ 
