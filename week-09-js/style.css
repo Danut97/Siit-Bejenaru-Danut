@@ -1,0 +1,72 @@
+#fname{
+    position: relative;
+    left: 35px;
+}
+
+#lname{
+    position: relative;
+    left: 37px;
+}
+
+#Mphone{
+    position: relative;
+    left: 5px;
+}
+
+#title1{
+    position: relative;
+    left: 75px;
+}
+
+#line1{
+    width: 450px;
+    position: relative;
+    left: -448px;
+}
+
+.verticalLine{
+    width: 0px;
+    border: 1px   solid;
+    color: grey;
+    height: 185px;
+    position: relative;
+    left: 75px;
+}
+
+#Adress1{
+    position: relative;
+    top:20px;
+}
+
+#street,
+#number,
+#City,
+#Country{
+    position: relative;
+    left: 150px;
+    top:-20px;
+    
+}
+
+#street1,
+#number1,
+#city1,
+#country1{
+    position: relative;
+    left: 35px;
+    color: black;
+}
+
+#btn1{
+    width: 450px;
+    height: 20px;
+    cursor: pointer;
+    position: relative;
+    top: 20px;
+}
+
+#title2{
+    position: relative;
+    left: 900px;
+    top: -435px;
+}
